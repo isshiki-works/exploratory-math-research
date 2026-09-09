@@ -1,0 +1,4 @@
+interface:
+  display_name: "探索性数学研究"
+  short_description: "开展开放数学探索，复盘旧研究并重判路线与失败理由，理解和改造工具"
+  default_prompt: "Use $exploratory-math-research to investigate this mathematical problem or reassess this research, drawing on its research-judgment references and the original evidence."
