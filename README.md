@@ -17,7 +17,13 @@ It is intended for genuine exploration of open problems and for reviews that aff
 
 ## Use
 
-Install the complete `exploratory-math-research` folder in a skills location recognized by your agent. Keep `SKILL.md` at the folder root. In a host supporting named skills, start with:
+Install from GitHub with the community skills CLI:
+
+```sh
+npx skills add isshiki-works/exploratory-math-research
+```
+
+Alternatively, copy the complete `exploratory-math-research` folder to a skills location recognized by your agent. Keep `SKILL.md` at the folder root. In a host supporting named skills, start with:
 
 ```text
 Use $exploratory-math-research to investigate this problem:

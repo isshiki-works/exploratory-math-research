@@ -17,7 +17,13 @@
 
 ## 使用方法
 
-将完整的 `exploratory-math-research` 文件夹放入所用 agent 能识别的 skills 目录，保持 `SKILL.md` 位于文件夹根部。支持按名称调用 skill 的环境中，可使用：
+使用社区 skills CLI 从 GitHub 安装：
+
+```sh
+npx skills add isshiki-works/exploratory-math-research
+```
+
+也可以将完整的 `exploratory-math-research` 文件夹放入所用 agent 能识别的 skills 目录，保持 `SKILL.md` 位于文件夹根部。支持按名称调用 skill 的环境中，可使用：
 
 ```text
 使用 $exploratory-math-research 研究以下问题：

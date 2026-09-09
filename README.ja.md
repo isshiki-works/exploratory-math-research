@@ -17,7 +17,13 @@
 
 ## 使い方
 
-`exploratory-math-research` フォルダ全体を、利用するエージェントが認識する skills ディレクトリに置きます。`SKILL.md` はフォルダの直下に置いてください。名前でスキルを呼び出せる環境では、例えば次のように依頼できます。
+コミュニティの skills CLI で GitHub からインストールできます。
+
+```sh
+npx skills add isshiki-works/exploratory-math-research
+```
+
+または、`exploratory-math-research` フォルダ全体を、利用するエージェントが認識する skills ディレクトリに置きます。`SKILL.md` はフォルダの直下に置いてください。名前でスキルを呼び出せる環境では、例えば次のように依頼できます。
 
 ```text
 $exploratory-math-research を使い、次の問題を研究してください。
