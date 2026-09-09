@@ -1,0 +1,4 @@
+interface:
+  display_name: "未解決の数学問題の探究"
+  short_description: "未解決問題を探究し、元の目的に照らして研究方針と失敗の範囲を見直す"
+  default_prompt: "$exploratory-math-research を使い、事例と元の根拠を参照して、この数学的問題の探究または研究の再検討を行ってください。"

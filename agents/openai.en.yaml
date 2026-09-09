@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exploratory Math Research"
+  short_description: "Explore open problems and reassess research decisions"
+  default_prompt: "Use $exploratory-math-research to investigate this mathematical problem or reassess this research using its cases and the original evidence."
